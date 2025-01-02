@@ -39,9 +39,20 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
+![image](https://github.com/user-attachments/assets/db068706-052e-449b-af88-178968d94b00)
+
+![image](https://github.com/user-attachments/assets/f6d5c8f6-d0c9-4a67-b18e-e3c1da968bf4)
+
+![image](https://github.com/user-attachments/assets/0ff28048-f289-486e-a031-2e11bc7e7936)
+
+![image](https://github.com/user-attachments/assets/163b0e3c-06ba-4b92-b609-58552f920df6)
+
+![image](https://github.com/user-attachments/assets/91cbce9c-56ac-428f-9fad-2b16091852be)
+
+![image](https://github.com/user-attachments/assets/bbdddf7f-f799-4b88-b858-bc75d3c7a6d0)
+
+
 
 ## Output:
 
